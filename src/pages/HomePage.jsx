@@ -89,7 +89,7 @@ window.location.href = mailtoLink;
 };
 
 return ( <main> <nav className="navbar"> <a className="brand" href="#home">
-Nwanneka<span>.</span> </a>
+NM<span>.</span> </a>
 
     <div className="nav-links">
       <a href="#about">About</a>
